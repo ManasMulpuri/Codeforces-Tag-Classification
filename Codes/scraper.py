@@ -2,7 +2,7 @@ import requests
 import json
 import csv
 
-api_key = "jina_ac29ba80c6734d95a30252c078c5f19a6hPIxeEfCL4pnxRdBcJ4CgFup9pw"
+api_key = ""
 headers = {
     "Authorization": f"Bearer {api_key}",
     "X-Retain-Images": "none",
